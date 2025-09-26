@@ -1,0 +1,44 @@
+# Binaries
+tree
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# macOS app bundle
+*.app
+
+# Go build cache / intermediate files
+*.out
+*.log
+*.prof
+*.pprof
+
+# Go module/vendor stuff
+/vendor/
+/bin/
+/dist/
+/build/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary
+tmp/
+*.tmp
+*.bak
+
+# fyne package metadata
+FyneApp.toml
+fyne-cross/
