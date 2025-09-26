@@ -31,3 +31,4 @@ open tree.app
 
 ### Screenshot
 ![Tree Visualization](cmd/app/assets/preview.png)
+![Tree Visualization](cmd/app/assets/preview1.png)
